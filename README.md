@@ -1,8 +1,6 @@
-# GitBase
+# nextjs_mutiple_language_seo_template
 
-[GitBase](https://gitbase.app/) is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
-
-![GitBase](https://toimg.xyz/file/5aa892c8e8385232fcdf3.png)
+nextjs_mutiple_language_seo_template is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
 
 
 ## Deploy on Vercel
