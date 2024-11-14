@@ -30,8 +30,8 @@ nextjs_mutiple_language_seo_template is an open-source dynamic website solution 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/qiayue/gitbase.git
-   cd gitbase
+   git clone https://github.com/xucongyong/nextjs_mutiple_language_seo_template.git
+   cd nextjs_mutiple_language_seo_template
    ```
 
 2. Install dependencies:
@@ -57,7 +57,7 @@ nextjs_mutiple_language_seo_template is an open-source dynamic website solution 
    npm run dev
    ```
 
-Visit `http://localhost:3000` to see your GitBase instance running locally.
+Visit `http://localhost:3000` to see your instance running locally.
 
 ## Deployment
 
@@ -70,7 +70,6 @@ Visit `http://localhost:3000` to see your GitBase instance running locally.
    - `ACCESS_PASSWORD`
 4. Deploy the project.
 
-For a detailed deployment guide, please refer to our [Installation and Deployment Guide](https://gitbase.app/posts/gitbase-install-guide).
 
 ## Usage
 
@@ -79,13 +78,6 @@ For a detailed deployment guide, please refer to our [Installation and Deploymen
 - Manage resources in the admin panel.
 - All changes are automatically synced with your GitHub repository.
 
-## Contributing
-
-We welcome contributions to GitBase! Please read our [Contributing Guide](https://gitbase.app/posts/how-to-contributing-to-gitbase) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-GitBase is open-source software licensed under the [MIT license](https://github.com/qiayue/gitbase/?tab=MIT-1-ov-file).
 
 ## Support
 
@@ -93,7 +85,7 @@ If you encounter any issues or have questions, please file an issue on the GitHu
 
 ## Acknowledgements
 
-GitBase is built with the following open-source libraries:
+built with the following open-source libraries:
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn/UI](https://ui.shadcn.com/)
